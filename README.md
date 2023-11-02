@@ -30,3 +30,9 @@ By contributing to this repository, you're not only challenging yourself but als
 
 Thanks and happy coding! 🎉
 
+-----
+
+## Solutions
+
+* [AhmedNadar - without OOP](/AhmedNadar/readme.md)
+
