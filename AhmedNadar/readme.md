@@ -35,6 +35,12 @@ end
 Bottles.new.print_song
 ```
 
-
 You would notice that it rely on conditions to print the correct string. I have used the `case` statement to print the correct string for the number of bottles. I have also used the `if` statement to print the correct string for the last verse.
 
+## Result
+
+Run the following:
+```shell
+ruby AhmedNadar/99_bottels_no_oop.rb`
+```
+✅ And the output matches the [expected result](/result.md).
